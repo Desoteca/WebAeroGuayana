@@ -17,12 +17,7 @@
   <div class="header"><?php include("includes/cabecera.php"); ?>
   <?php include("includes/menu.php"); ?></div>
   <div class="sidebar1">
-    <ul class="nav">
-      <li><a href="#">V&iacute;nculo uno</a></li>
-      <li><a href="#">V&iacute;nculo dos</a></li>
-      <li><a href="#">V&iacute;nculo tres</a></li>
-      <li><a href="#">V&iacute;nculo cuatro</a></li>
-    </ul>
+   
     <p> Los v&iacute;nculos anteriores muestran una estructura de navegaci&oacute;n b&aacute;sica que emplea una lista no ordenada con estilo de CSS. Util&iacute;cela como punto de partida y modifique las propiedades para lograr el aspecto deseado. Si necesita men&uacute;s desplegables, cr&eacute;elos empleando un men&uacute; de Spry, un widget de men&uacute; de Adobe Exchange u otras soluciones de javascript o CSS.</p>
     <p>Si desea que la navegaci&oacute;n se sit&uacute;e a lo largo de la parte superior, simplemente mueva ul.nav a la parte superior de la p&aacute;gina y vuelva a crear el estilo.</p>
     <!-- end .sidebar1 --></div>
